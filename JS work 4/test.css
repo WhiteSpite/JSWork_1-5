@@ -1,0 +1,15 @@
+div {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+img {
+    min-width: 0;
+    padding: 0.3%;
+    max-width: 330px;
+}
+
+input {
+    max-width: 100%;
+}
